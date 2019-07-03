@@ -1,6 +1,6 @@
 ---
 title: "Image Captioning"
-date: 2018-01-28
+date: 2019-01-28
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/model.png"
