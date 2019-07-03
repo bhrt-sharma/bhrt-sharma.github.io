@@ -1,16 +1,16 @@
 ---
-title: "Android App"
+title: "Voice_Biometrics Using GMM and CNN"
 date: 2019-01-28
-tags: [data wrangling, data science, messy data]
+tags: [Voice-Biometrics,VGG-19,CNN,GMM, data science]
 header:
   image: "/images/perceptron/model.png"
-excerpt: "Android"
+excerpt: "Voice_Biometrics Using GMM and CNN"
 mathjax: "true"
 ---
 
 
 
-What about a [link](https://github.com/bhrt-sharma/Android_Addition_app)?
+What about a [link](https://github.com/bhrt-sharma/Smart-Voice-Biometrics)?
 
 
 
