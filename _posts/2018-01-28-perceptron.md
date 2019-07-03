@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
+title: "Image Captioning"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Image Captioning"
 mathjax: "true"
 ---
 
@@ -20,7 +20,7 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-What about a [link](https://github.com/dataoptimal)?
+What about a [link](https://github.com/bhrt-sharma/Image-Captioning-)?
 
 Here's a bulleted list:
 * First item
