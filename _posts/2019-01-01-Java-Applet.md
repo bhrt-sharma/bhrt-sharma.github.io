@@ -1,16 +1,16 @@
 ---
-title: "Android App"
+title: "Java Applet"
 date: 2019-01-28
-tags: [data wrangling, data science, messy data]
+tags: [Java Applet, Netbeans]
 header:
   image: "/images/perceptron/model.png"
-excerpt: "Android"
+excerpt: "Simple Java Applet for calculator"
 mathjax: "true"
 ---
 
 
 
-What about a [link](https://github.com/bhrt-sharma/Android_Addition_app)?
+What about a [link](https://github.com/bhrt-sharma/Java-Applet)?
 
 
 
