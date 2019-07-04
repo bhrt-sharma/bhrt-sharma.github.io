@@ -3,7 +3,7 @@ title: "Email Classifier"
 date: 2019-01-28
 tags: [Email Classifier, data science, Spam-Filter]
 header:
-  image: "/images/perceptron/model.png"
+  image: "/images/perceptron/spam.png"
 excerpt: "This project ilustrate the spam filter for any email Client"
 mathjax: "true"
 ---

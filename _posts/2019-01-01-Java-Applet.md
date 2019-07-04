@@ -3,7 +3,7 @@ title: "Java Applet"
 date: 2019-01-28
 tags: [Java Applet, Netbeans]
 header:
-  image: "/images/perceptron/model.png"
+  image: "/images/perceptron/caljava.png"
 excerpt: "Simple Java Applet for calculator"
 mathjax: "true"
 ---
