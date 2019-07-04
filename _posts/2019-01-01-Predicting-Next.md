@@ -3,7 +3,7 @@ title: "Predicting Next Character Using RNN"
 date: 2019-01-28
 tags: [RNN, data science, LSTM]
 header:
-  image: "/images/perceptron/model.png"
+  image: "/images/text_rnn.png"
 excerpt: "This is a explaination of predicting next character using the Recurrent Neural Networks"
 mathjax: "true"
 ---

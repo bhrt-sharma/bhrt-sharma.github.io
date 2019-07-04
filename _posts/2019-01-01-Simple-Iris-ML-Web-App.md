@@ -3,7 +3,7 @@ title: "iris ML-Web App"
 date: 2019-01-28
 tags: [Web App, data science]
 header:
-  image: "/images/perceptron/model.png"
+  image: "/images/iris.jpg"
 excerpt: "This is a Flask Web App for the Iris dataset"
 mathjax: "true"
 ---

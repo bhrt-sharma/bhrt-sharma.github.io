@@ -3,7 +3,7 @@ title: "Shell-Scripting for Beginner"
 date: 2019-01-28
 tags: [Shell-Scripting, OS]
 header:
-  image: "/images/perceptron/model.png"
+  image: "/images/shell.png"
 excerpt: "Shell Scripting"
 mathjax: "true"
 ---
