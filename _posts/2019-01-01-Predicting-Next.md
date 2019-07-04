@@ -1,16 +1,16 @@
 ---
-title: "Android App"
+title: "Predicting Next Character Using RNN"
 date: 2019-01-28
-tags: [data wrangling, data science, messy data]
+tags: [RNN, data science, LSTM]
 header:
   image: "/images/perceptron/model.png"
-excerpt: "Android"
+excerpt: "This is a explaination of predicting next character using the Recurrent Neural Networks"
 mathjax: "true"
 ---
 
 
 
-What about a [link](https://github.com/bhrt-sharma/Android_Addition_app)?
+What about a [link](https://github.com/bhrt-sharma/Predicting-Next-Character---RNN)?
 
 
 

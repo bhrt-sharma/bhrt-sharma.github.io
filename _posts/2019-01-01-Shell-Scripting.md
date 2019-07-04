@@ -1,16 +1,16 @@
 ---
-title: "Android App"
+title: "Shell-Scripting for Beginner"
 date: 2019-01-28
-tags: [data wrangling, data science, messy data]
+tags: [Shell-Scripting, OS]
 header:
   image: "/images/perceptron/model.png"
-excerpt: "Android"
+excerpt: "Shell Scripting"
 mathjax: "true"
 ---
 
 
 
-What about a [link](https://github.com/bhrt-sharma/Android_Addition_app)?
+What about a [link](https://github.com/bhrt-sharma/Shell-Scripting-)?
 
 
 
